@@ -2,7 +2,7 @@
 
 # load normalised data in addition to metadata and table to translate probe IDs to illumina IDs
 # order of samples must match up
-setwd('/Users/hj4817/Box Sync/KD-multiomics/Revisions/')
+setwd('KawasakiDisease_IJMS/')
 
 load(file = 'E-set-Trans.RData', verbose = T)
 # e.set = normalised dataset 
@@ -83,12 +83,13 @@ dv.paths.down <- pathways(genes.sde.dv.control)[[2]]
 # save each file as a CSV 
 
 # read in each file 
-kd.up.revigo <- read.csv(file = '/Users/hj4817/Box Sync/KD-multiomics/Limma-out/Revigo/Revigo_Disease_Pathways/REVIGO_SDE_KD_UP.csv', header = T)
-kd.down.revigo <- read.csv(file = '/Users/hj4817/Box Sync/KD-multiomics/Limma-out/Revigo/Revigo_Disease_Pathways/REVIGO_SDE_KD_DOWN.csv', header = T)
-db.up.revigo <- read.csv(file = '/Users/hj4817/Box Sync/KD-multiomics/Limma-out/Revigo/Revigo_Disease_Pathways/REVIGO_SDE_DB_UP.csv', header = T)
-db.down.revigo <- read.csv(file = '/Users/hj4817/Box Sync/KD-multiomics/Limma-out/Revigo/Revigo_Disease_Pathways/REVIGO_SDE_DB_DOWN.csv', header = T)
-dv.up.revigo <- read.csv(file = '/Users/hj4817/Box Sync/KD-multiomics/Limma-out/Revigo/Revigo_Disease_Pathways/REVIGO_SDE_DV_UP.csv', header = T)
-dv.down.revigo <- read.csv(file = '/Users/hj4817/Box Sync/KD-multiomics/Limma-out/Revigo/Revigo_Disease_Pathways/REVIGO_SDE_DV_DOWN.csv', header = T)
+# update /path/to/file.csv with your file name and path
+kd.up.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+kd.down.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+db.up.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+db.down.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+dv.up.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+dv.down.revigo <- read.csv(file = '/path/to/file.csv', header = T)
 
 # condense the pathway analysis results into one dataframe with top 10 results for each run of revigo
 top.paths <- top.pathways(gp1.up = kd.up.revigo, 
@@ -181,6 +182,7 @@ e.set.variable.kd <- clusters.prep$e.set.variable[,match(rownames(clusters.kd), 
 model.mat.clusters <- model.matrix(~0 + as.factor(clusters), data = clusters.kd)
 colnames(model.mat.clusters) <- c('Cl.1', 'Cl.2', 'Cl.3')
 
+
 # run limma 
 # compare cluster 1 to clusters 2 and 3
 cluster1.sde.genes <- limma.res(data = t(e.set.variable.kd), 
@@ -222,12 +224,14 @@ c3.paths.down <- pathways(cluster3.sde.genes)[[2]]
 # note these lists are available in the supplementary materials
 # save each file as a CSV 
 # read in each file 
-c1.up.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering/REVIGO_CL1vsAll_UP.csv', header = T)
-c1.down.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering/REVIGO_CL1vsAll_DOWN.csv', header = T)
-c2.up.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering/REVIGO_CL2vsAll_UP.csv', header = T)
-c2.down.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering/REVIGO_CL2vsAll_DOWN.csv', header = T)
-c3.up.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering/REVIGO_CL3vsAll_UP.csv', header = T)
-c3.down.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering/REVIGO_CL3vsAll_DOWN.csv', header = T)
+
+# update /path/to/file.csv with your file name and path
+c1.up.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+c1.down.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+c2.up.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+c2.down.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+c3.up.revigo <- read.csv(file = '/path/to/file.csv', header = T)
+c3.down.revigo <- read.csv(file = '/path/to/file.csv', header = T)
 
 # identify top 10 pathways up and down regulated in each cluster
 cluster.top.pathways <- top.pathways(gp1.up = c1.up.revigo, 
@@ -391,9 +395,9 @@ dv.intersect <- intersect(rownames(df.corrected.val), colnames(exp.dv))
 
 exp.db.val <- df.corrected.val[match(db.intersect, rownames(df.corrected.val)),]
 exp.dv.val <- df.corrected.val[match(dv.intersect, rownames(df.corrected.val)),]
-exp.db <- data.frame(group= exp.db$group, 
+exp.db <- data.frame(group= exp.db$Group, 
                      exp.db[,match(db.intersect, colnames(exp.db))])
-exp.dv <- data.frame(group = exp.dv$group, 
+exp.dv <- data.frame(group = exp.dv$Group, 
                      exp.dv[,match(dv.intersect, colnames(exp.dv))])
 
 
@@ -555,12 +559,13 @@ c3.paths.down.kd <- pathways(cluster3.sde.genes.kd)[[2]]
 # note these lists are available in the supplementary materials
 # save each file as a CSV 
 # read in each file 
-c1.up.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering_KD/REVIGO_KD_ALONE_CL1_UP.csv', header = T)
-c1.down.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering_KD/REVIGO_KD_ALONE_CL1_DOWN.csv', header = T)
-c2.up.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering_KD/REVIGO_KD_ALONE_CL2_UP.csv', header = T)
-c2.down.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering_KD/REVIGO_KD_ALONE_CL2_DOWN.csv', header = T)
-c3.up.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering_KD/REVIGO_KD_ALONE_CL3_UP.csv', header = T)
-c3.down.revigo <- read.csv(file = 'Limma-out/Revigo/Revigo_Clustering_KD/REVIGO_KD_ALONE_CL3_DOWN.csv', header = T)
+# replace path/to/file.csv with the path to your files from REVIGO
+c1.up.revigo <- read.csv(file = 'path/to/file.csv', header = T)
+c1.down.revigo <- read.csv(file = 'path/to/file.csv', header = T)
+c2.up.revigo <- read.csv(file = 'path/to/file.csv', header = T)
+c2.down.revigo <- read.csv(file = 'path/to/file.csv', header = T)
+c3.up.revigo <- read.csv(file = 'path/to/file.csv', header = T)
+c3.down.revigo <- read.csv(file = 'path/to/file.csv', header = T)
 
 # identify top 10 pathways up and down regulated in each cluster
 cluster.top.pathways.kd <- top.pathways(gp1.up = c1.up.revigo, 
