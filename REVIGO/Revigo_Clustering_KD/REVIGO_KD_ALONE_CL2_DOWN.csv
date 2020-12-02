@@ -1,0 +1,145 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0002376,"immune system process",16.463%,-1.685, 1.083,3.455,-2.9017,0.988,0.000,2376,0
+GO:0008152,"metabolic process",64.841%,-0.284,-1.615,4.051,-3.3387,0.995,0.000,8152,0
+GO:0042775,"mitochondrial ATP synthesis coupled electron transport",0.554%,-3.004, 5.719,1.987,-7.1275,0.791,0.000,42775,0
+GO:0006123,"mitochondrial electron transport, cytochrome c to oxygen",0.121%,null,null,1.342,-5.4861,0.814,0.866,42775,1
+GO:0006122,"mitochondrial electron transport, ubiquinol to cytochrome c",0.087%,null,null,1.204,-2.2542,0.819,0.842,42775,1
+GO:0006119,"oxidative phosphorylation",0.669%,null,null,2.068,-6.2557,0.802,0.821,42775,1
+GO:0009060,"aerobic respiration",0.387%,null,null,1.833,-4.4713,0.838,0.840,42775,1
+GO:0022900,"electron transport chain",0.658%,null,null,2.061,-5.5806,0.842,0.737,42775,1
+GO:0045333,"cellular respiration",1.044%,null,null,2.260,-5.5806,0.830,0.837,42775,1
+GO:0022904,"respiratory electron transport chain",0.646%,null,null,2.053,-6.7617,0.826,0.976,42775,1
+GO:0046034,"ATP metabolic process",1.431%,null,null,2.396,-4.4713,0.831,0.883,42775,1
+GO:0042773,"ATP synthesis coupled electron transport",0.560%,null,null,1.991,-7.1275,0.792,0.965,42775,1
+GO:0015980,"energy derivation by oxidation of organic compounds",1.575%,null,null,2.438,-4.5552,0.830,0.865,42775,1
+GO:0035690,"cellular response to drug",0.381%,-7.641,-2.056,1.826,-3.3387,0.861,0.002,35690,0
+GO:0022618,"ribonucleoprotein complex assembly",1.143%, 3.398, 5.242,2.299,-3.6141,0.924,0.002,22618,0
+GO:0000245,"spliceosomal complex assembly",0.312%,null,null,1.740,-2.4124,0.893,0.850,22618,1
+GO:0042255,"ribosome assembly",0.335%,null,null,1.771,-2.2514,0.927,0.856,22618,1
+GO:0000387,"spliceosomal snRNP assembly",0.219%,null,null,1.591,-2.6050,0.896,0.822,22618,1
+GO:1902600,"hydrogen ion transmembrane transport",0.675%, 5.648,-0.792,2.072,-2.6952,0.953,0.011,1902600,0
+GO:0045454,"cell redox homeostasis",0.415%, 2.413,-0.527,1.863,-4.4664,0.936,0.033,45454,0
+GO:0043900,"regulation of multi-organism process",1.379%, 4.811,-3.830,2.380,-2.1173,0.958,0.034,43900,0
+GO:0031146,"SCF-dependent proteasomal ubiquitin-dependent protein catabolic process",0.415%, 0.082, 1.785,1.863,-2.6987,0.953,0.039,31146,0
+GO:0006091,"generation of precursor metabolites and energy",2.129%, 2.713,-2.387,2.568,-3.1728,0.960,0.047,6091,0
+GO:0008219,"cell death",11.881%, 2.019,-4.201,3.314,-4.4857,0.941,0.047,8219,0
+GO:0044237,"cellular metabolic process",59.486%, 2.682, 3.295,4.013,-3.0168,0.958,0.070,44237,0
+GO:0001775,"cell activation",7.900%, 0.655,-3.227,3.137,-2.2972,0.944,0.075,1775,0
+GO:0002366,"leukocyte activation involved in immune response",3.895%, 1.356,-7.273,2.830,-2.7039,0.698,0.081,2366,0
+GO:0002446,"neutrophil mediated immunity",2.879%,null,null,2.699,-2.4569,0.801,0.942,2366,1
+GO:0002444,"myeloid leukocyte mediated immunity",3.133%,null,null,2.736,-2.2161,0.801,0.742,2366,1
+GO:0045321,"leukocyte activation",7.011%,null,null,3.085,-2.6992,0.752,0.792,2366,1
+GO:0002274,"myeloid leukocyte activation",3.531%,null,null,2.787,-2.1808,0.769,0.750,2366,1
+GO:0002275,"myeloid cell activation involved in immune response",3.093%,null,null,2.730,-2.2381,0.701,0.927,2366,1
+GO:0036230,"granulocyte activation",2.851%,null,null,2.695,-2.4162,0.764,0.727,2366,1
+GO:0002263,"cell activation involved in immune response",3.907%,null,null,2.831,-2.6992,0.706,0.768,2366,1
+GO:0002283,"neutrophil activation involved in immune response",2.799%,null,null,2.687,-2.4955,0.702,0.969,2366,1
+GO:0042119,"neutrophil activation",2.827%,null,null,2.691,-2.4569,0.763,0.968,2366,1
+GO:0043312,"neutrophil degranulation",2.799%,null,null,2.687,-2.5111,0.679,0.914,2366,1
+GO:0043299,"leukocyte degranulation",3.064%,null,null,2.726,-2.2828,0.758,0.740,2366,1
+GO:0045429,"positive regulation of nitric oxide biosynthetic process",0.237%,-4.627, 3.943,1.623,-2.5124,0.867,0.109,45429,0
+GO:0045428,"regulation of nitric oxide biosynthetic process",0.306%,null,null,1.732,-2.0588,0.876,0.943,45429,1
+GO:1903428,"positive regulation of reactive oxygen species biosynthetic process",0.277%,null,null,1.690,-2.1971,0.876,0.922,45429,1
+GO:1904407,"positive regulation of nitric oxide metabolic process",0.237%,null,null,1.623,-2.4955,0.871,0.910,45429,1
+GO:0090271,"positive regulation of fibroblast growth factor production",0.017%, 5.892,-4.223,0.602,-2.2236,0.940,0.110,90271,0
+GO:0051707,"response to other organism",4.853%,-3.512,-8.008,2.925,-2.1808,0.889,0.114,51707,0
+GO:0043207,"response to external biotic stimulus",4.859%,null,null,2.926,-2.1808,0.889,0.933,51707,1
+GO:0002831,"regulation of response to biotic stimulus",0.802%,null,null,2.146,-2.0118,0.868,0.719,51707,1
+GO:0097190,"apoptotic signaling pathway",3.358%,-4.179,-5.580,2.766,-3.2501,0.791,0.121,97190,0
+GO:0009628,"response to abiotic stimulus",6.705%,-2.360,-7.994,3.066,-2.2523,0.912,0.125,9628,0
+GO:0009607,"response to biotic stimulus",5.107%,-1.889,-6.880,2.947,-2.1106,0.914,0.126,9607,0
+GO:0032392,"DNA geometric change",0.496%, 2.413, 3.673,1.940,-2.7830,0.956,0.136,32392,0
+GO:0032508,"DNA duplex unwinding",0.439%,null,null,1.886,-2.2299,0.956,0.774,32392,1
+GO:0006793,"phosphorus metabolic process",18.702%, 0.438, 6.214,3.511,-2.5185,0.952,0.139,6793,0
+GO:0033194,"response to hydroperoxide",0.098%,-7.665,-0.398,1.255,-3.2687,0.847,0.174,33194,0
+GO:0010467,"gene expression",30.542%, 0.283, 4.181,3.724,-2.4955,0.958,0.179,10467,0
+GO:0090090,"negative regulation of canonical Wnt signaling pathway",0.952%,-5.157,-6.266,2.220,-2.7153,0.801,0.180,90090,0
+GO:0030178,"negative regulation of Wnt signaling pathway",1.154%,null,null,2.303,-2.5646,0.798,0.864,90090,1
+GO:0060828,"regulation of canonical Wnt signaling pathway",1.385%,null,null,2.382,-2.1865,0.817,0.901,90090,1
+GO:0060070,"canonical Wnt signaling pathway",1.685%,null,null,2.467,-2.0470,0.828,0.802,90090,1
+GO:0033157,"regulation of intracellular protein transport",2.147%, 4.538, 0.276,2.572,-2.5807,0.910,0.197,33157,0
+GO:0051223,"regulation of protein transport",4.310%,null,null,2.874,-2.1274,0.909,0.832,33157,1
+GO:0070201,"regulation of establishment of protein localization",4.737%,null,null,2.915,-2.0118,0.912,0.878,33157,1
+GO:0046822,"regulation of nucleocytoplasmic transport",1.223%,null,null,2.328,-2.0470,0.921,0.833,33157,1
+GO:0034641,"cellular nitrogen compound metabolic process",37.432%,-4.509, 5.296,3.812,-2.2161,0.927,0.203,34641,0
+GO:0043933,"macromolecular complex subunit organization",14.259%, 3.949, 4.657,3.393,-2.3199,0.959,0.206,43933,0
+GO:0010972,"negative regulation of G2/M transition of mitotic cell cycle",0.479%, 5.875, 1.054,1.924,-2.6987,0.842,0.208,10972,0
+GO:1901988,"negative regulation of cell cycle phase transition",1.229%,null,null,2.330,-2.2972,0.834,0.922,10972,1
+GO:1901991,"negative regulation of mitotic cell cycle phase transition",1.183%,null,null,2.314,-2.4049,0.833,0.889,10972,1
+GO:0010948,"negative regulation of cell cycle process",1.593%,null,null,2.442,-2.0042,0.841,0.796,10972,1
+GO:0045930,"negative regulation of mitotic cell cycle",1.610%,null,null,2.447,-2.0567,0.840,0.719,10972,1
+GO:0010389,"regulation of G2/M transition of mitotic cell cycle",0.658%,null,null,2.061,-2.0118,0.852,0.952,10972,1
+GO:1902750,"negative regulation of cell cycle G2/M phase transition",0.490%,null,null,1.934,-2.5823,0.842,0.923,10972,1
+GO:0006979,"response to oxidative stress",2.406%,-6.411, 2.188,2.621,-2.5803,0.884,0.228,6979,0
+GO:0097237,"cellular response to toxic substance",0.052%,-7.467, 0.017,1.000,-2.4955,0.863,0.238,97237,0
+GO:0055114,"oxidation-reduction process",5.828%,-2.612, 6.334,3.005,-2.6050,0.912,0.264,55114,0
+GO:0070498,"interleukin-1-mediated signaling pathway",0.115%,-7.398,-3.125,1.322,-2.6169,0.814,0.271,70498,0
+GO:0071347,"cellular response to interleukin-1",0.519%,null,null,1.959,-2.0588,0.827,0.829,70498,1
+GO:0061418,"regulation of transcription from RNA polymerase II promoter in response to hypoxia",0.456%,-6.327, 0.411,1.903,-2.9235,0.739,0.285,61418,0
+GO:0036293,"response to decreased oxygen levels",1.991%,null,null,2.539,-2.1665,0.872,0.964,61418,1
+GO:0036294,"cellular response to decreased oxygen levels",1.114%,null,null,2.288,-2.0407,0.805,0.974,61418,1
+GO:0043618,"regulation of transcription from RNA polymerase II promoter in response to stress",0.664%,null,null,2.064,-2.4955,0.801,0.949,61418,1
+GO:0071456,"cellular response to hypoxia",1.073%,null,null,2.272,-2.0727,0.785,0.906,61418,1
+GO:0001666,"response to hypoxia",1.945%,null,null,2.529,-2.2236,0.842,0.823,61418,1
+GO:0034097,"response to cytokine",4.714%,-7.333,-2.621,2.913,-2.0567,0.848,0.306,34097,0
+GO:0006521,"regulation of cellular amino acid metabolic process",0.352%,-3.926, 5.630,1.792,-2.1808,0.851,0.343,6521,0
+GO:0033238,"regulation of cellular amine metabolic process",0.450%,null,null,1.898,-2.0067,0.889,0.887,6521,1
+GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",0.439%, 2.076,-7.426,1.886,-2.0588,0.853,0.347,2479,0
+GO:0042590,"antigen processing and presentation of exogenous peptide antigen via MHC class I",0.456%,null,null,1.903,-2.0437,0.852,0.953,2479,1
+GO:0022613,"ribonucleoprotein complex biogenesis",2.597%, 3.252, 5.122,2.654,-2.4569,0.953,0.360,22613,0
+GO:0071826,"ribonucleoprotein complex subunit organization",1.218%, 4.378, 4.291,2.326,-3.5615,0.950,0.376,71826,0
+GO:0043620,"regulation of DNA-templated transcription in response to stress",0.692%,-6.034, 2.764,2.083,-2.4400,0.808,0.389,43620,0
+GO:0006796,"phosphate-containing compound metabolic process",18.188%,-0.533, 6.596,3.499,-2.5566,0.918,0.395,6796,0
+GO:0016310,"phosphorylation",13.018%,null,null,3.354,-2.1110,0.920,0.728,6796,1
+GO:0033554,"cellular response to stress",10.496%,-5.521,-4.717,3.260,-2.6050,0.848,0.407,33554,0
+GO:0048872,"homeostasis of number of cells",1.339%, 4.074,-1.422,2.367,-2.0118,0.958,0.438,48872,0
+GO:1901701,"cellular response to oxygen-containing compound",5.632%,-6.659,-2.873,2.990,-2.0727,0.802,0.455,1901701,0
+GO:0030097,"hemopoiesis",4.108%, 2.723,-6.883,2.853,-2.0118,0.792,0.468,30097,0
+GO:1903706,"regulation of hemopoiesis",1.823%,null,null,2.501,-2.1274,0.775,0.834,30097,1
+GO:0030217,"T cell differentiation",1.246%,null,null,2.336,-2.0693,0.774,0.792,30097,1
+GO:0090087,"regulation of peptide transport",1.177%, 6.308,-1.518,2.312,-2.0567,0.926,0.487,90087,0
+GO:0070555,"response to interleukin-1",0.664%,-7.861,-1.667,2.064,-2.2381,0.851,0.494,70555,0
+GO:0071447,"cellular response to hydroperoxide",0.046%,-7.394,-0.603,0.954,-3.0842,0.831,0.498,71447,0
+GO:0097193,"intrinsic apoptotic signaling pathway",1.633%,-4.007,-5.309,2.453,-2.0237,0.807,0.536,97193,0
+GO:0044770,"cell cycle phase transition",3.231%, 6.469, 0.823,2.749,-2.1808,0.883,0.539,44770,0
+GO:0070482,"response to oxygen levels",2.089%,-3.558,-2.253,2.560,-2.0570,0.887,0.545,70482,0
+GO:0006955,"immune response",11.858%, 0.665,-7.181,3.313,-3.6331,0.739,0.566,6955,0
+GO:0034622,"cellular macromolecular complex assembly",5.747%, 2.891, 5.159,2.999,-2.0588,0.935,0.566,34622,0
+GO:0002757,"immune response-activating signal transduction",3.405%,-0.333,-6.658,2.772,-2.1808,0.687,0.567,2757,0
+GO:0002684,"positive regulation of immune system process",6.047%,null,null,3.021,-2.1031,0.758,0.805,2757,1
+GO:0050852,"T cell receptor signaling pathway",1.027%,null,null,2.253,-2.3199,0.713,0.806,2757,1
+GO:0002764,"immune response-regulating signaling pathway",3.589%,null,null,2.794,-2.0693,0.695,0.835,2757,1
+GO:0050778,"positive regulation of immune response",4.501%,null,null,2.893,-2.3440,0.701,0.828,2757,1
+GO:0050776,"regulation of immune response",5.799%,null,null,3.003,-2.6169,0.705,0.731,2757,1
+GO:0031664,"regulation of lipopolysaccharide-mediated signaling pathway",0.115%,-6.843,-3.535,1.322,-2.0567,0.794,0.588,31664,0
+GO:0060218,"hematopoietic stem cell differentiation",0.098%, 3.172,-6.718,1.255,-2.0317,0.834,0.593,60218,0
+GO:1901532,"regulation of hematopoietic progenitor cell differentiation",0.092%,null,null,1.230,-2.0189,0.814,0.743,60218,1
+GO:0007346,"regulation of mitotic cell cycle",2.989%, 6.355, 1.001,2.715,-2.4126,0.857,0.605,7346,0
+GO:0044772,"mitotic cell cycle phase transition",3.064%,null,null,2.726,-2.3199,0.864,0.766,7346,1
+GO:0043066,"negative regulation of apoptotic process",4.749%,-2.633,-1.670,2.916,-2.9249,0.825,0.625,43066,0
+GO:0042981,"regulation of apoptotic process",8.159%,null,null,3.151,-3.6141,0.839,0.825,43066,1
+GO:0060548,"negative regulation of cell death",5.222%,null,null,2.957,-2.8941,0.827,0.739,43066,1
+GO:0043069,"negative regulation of programmed cell death",4.812%,null,null,2.922,-2.8604,0.825,0.920,43066,1
+GO:0043067,"regulation of programmed cell death",8.234%,null,null,3.155,-3.5213,0.840,0.886,43066,1
+GO:0002252,"immune effector process",6.896%, 2.463,-7.171,3.078,-2.8856,0.811,0.627,2252,0
+GO:0034599,"cellular response to oxidative stress",1.448%,-6.879,-1.233,2.401,-2.6039,0.787,0.652,34599,0
+GO:0000302,"response to reactive oxygen species",1.327%,null,null,2.364,-2.1031,0.811,0.850,34599,1
+GO:0034614,"cellular response to reactive oxygen species",0.854%,null,null,2.173,-2.6101,0.787,0.809,34599,1
+GO:0002682,"regulation of immune system process",8.344%, 2.304,-7.200,3.160,-2.3328,0.780,0.653,2682,0
+GO:0031394,"positive regulation of prostaglandin biosynthetic process",0.023%,-3.895, 4.691,0.699,-2.1274,0.870,0.656,31394,0
+GO:2001280,"positive regulation of unsaturated fatty acid biosynthetic process",0.023%,null,null,0.699,-2.0068,0.870,0.951,31394,1
+GO:0019646,"aerobic electron transport chain",0.006%,-2.114, 5.551,0.301,-5.4861,0.873,0.670,19646,0
+GO:0098869,"cellular oxidant detoxification",0.531%,-7.867, 0.402,1.968,-2.1808,0.858,0.674,98869,0
+GO:1990748,"cellular detoxification",0.542%,null,null,1.978,-2.0588,0.858,0.984,98869,1
+GO:0071451,"cellular response to superoxide",0.138%,null,null,1.398,-2.0567,0.808,0.992,98869,1
+GO:0071450,"cellular response to oxygen radical",0.138%,null,null,1.398,-2.0567,0.808,0.958,98869,1
+GO:0019430,"removal of superoxide radicals",0.127%,null,null,1.362,-2.0942,0.742,0.871,98869,1
+GO:0010941,"regulation of cell death",8.800%,-2.739,-4.288,3.184,-3.8354,0.846,0.685,10941,0
+GO:0012501,"programmed cell death",11.246%,null,null,3.290,-3.6911,0.861,0.846,10941,1
+GO:0006915,"apoptotic process",10.537%,null,null,3.262,-3.7804,0.860,0.802,10941,1
+GO:0031145,"anaphase-promoting complex-dependent catabolic process",0.467%, 0.234, 1.586,1.914,-2.0118,0.953,0.686,31145,0
+GO:0019221,"cytokine-mediated signaling pathway",3.260%,-6.585,-3.231,2.753,-2.0567,0.756,0.690,19221,0
+GO:0034612,"response to tumor necrosis factor",1.673%,null,null,2.464,-2.0067,0.838,0.775,19221,1
+GO:0033209,"tumor necrosis factor-mediated signaling pathway",0.964%,null,null,2.225,-2.1156,0.783,0.755,19221,1
+GO:0071345,"cellular response to cytokine stimulus",4.172%,null,null,2.860,-2.0570,0.795,0.882,19221,1
+GO:1902036,"regulation of hematopoietic stem cell differentiation",0.035%, 3.405,-6.457,0.845,-2.1608,0.827,0.694,1902036,0

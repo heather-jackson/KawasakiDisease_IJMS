@@ -1,0 +1,228 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0001906,"cell killing",0.629%,-0.052,-1.168,2.041,-2.0849,0.991,0.000,1906,0
+GO:0001909,"leukocyte mediated cytotoxicity",0.473%, 3.446,-2.384,1.919,-2.7351,0.983,0.000,1909,0
+GO:0042267,"natural killer cell mediated cytotoxicity",0.312%,null,null,1.740,-2.8402,0.760,0.906,1909,1
+GO:0002376,"immune system process",16.463%, 0.258,-1.635,3.455,-7.6905,0.993,0.000,2376,0
+GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",0.439%, 8.103, 3.264,1.886,-2.8402,0.846,0.000,2479,0
+GO:0002474,"antigen processing and presentation of peptide antigen via MHC class I",0.560%,null,null,1.991,-2.5200,0.843,0.847,2479,1
+GO:0042590,"antigen processing and presentation of exogenous peptide antigen via MHC class I",0.456%,null,null,1.903,-2.7965,0.845,0.953,2479,1
+GO:0009611,"response to wounding",3.664%, 4.755,-6.211,2.803,-6.8013,0.891,0.000,9611,0
+GO:0022610,"biological adhesion",8.540%, 0.025,-2.276,3.171,-5.4361,0.992,0.000,22610,0
+GO:0032501,"multicellular organismal process",41.143%,-0.432, 0.259,3.853,-2.0359,0.995,0.000,32501,0
+GO:0032502,"developmental process",33.982%, 1.405, 1.015,3.770,-2.1794,0.994,0.000,32502,0
+GO:0034109,"homotypic cell-cell adhesion",0.433%,-3.361,-0.692,1.881,-5.6861,0.881,0.000,34109,0
+GO:0040011,"locomotion",9.452%, 0.245, 0.369,3.215,-2.7286,0.992,0.000,40011,0
+GO:0050878,"regulation of body fluid levels",2.862%, 4.192,-0.849,2.696,-4.1842,0.924,0.000,50878,0
+GO:0051704,"multi-organism process",9.873%, 0.772,-3.281,3.234,-5.0085,0.992,0.000,51704,0
+GO:0050817,"coagulation",1.968%,-0.640, 6.608,2.534,-5.5712,0.932,0.011,50817,0
+GO:0031099,"regeneration",1.016%, 1.412, 4.942,2.248,-2.0849,0.940,0.013,31099,0
+GO:0051770,"positive regulation of nitric-oxide synthase biosynthetic process",0.081%,-5.717, 1.467,1.176,-2.4412,0.910,0.025,51770,0
+GO:0051769,"regulation of nitric-oxide synthase biosynthetic process",0.104%,null,null,1.279,-2.2528,0.933,0.981,51770,1
+GO:0050865,"regulation of cell activation",3.174%, 5.000,-0.203,2.741,-3.6411,0.833,0.038,50865,0
+GO:0002576,"platelet degranulation",0.739%, 2.456, 3.741,2.111,-2.4291,0.914,0.042,2576,0
+GO:2000107,"negative regulation of leukocyte apoptotic process",0.254%,-6.284, 2.321,1.653,-3.0929,0.833,0.042,2000107,0
+GO:0070229,"negative regulation of lymphocyte apoptotic process",0.167%,null,null,1.477,-2.3907,0.838,0.862,2000107,1
+GO:2000106,"regulation of leukocyte apoptotic process",0.473%,null,null,1.919,-2.2657,0.868,0.901,2000107,1
+GO:0034329,"cell junction assembly",1.137%,-3.243,-3.477,2.297,-2.4906,0.950,0.044,34329,0
+GO:0048660,"regulation of smooth muscle cell proliferation",0.658%,-1.766, 1.082,2.061,-2.4359,0.909,0.047,48660,0
+GO:0048659,"smooth muscle cell proliferation",0.675%,null,null,2.072,-2.4291,0.947,0.916,48660,1
+GO:0048661,"positive regulation of smooth muscle cell proliferation",0.421%,null,null,1.869,-2.6718,0.885,0.946,48660,1
+GO:0065008,"regulation of biological quality",20.202%, 0.195,-1.901,3.544,-2.4291,0.942,0.052,65008,0
+GO:0001775,"cell activation",7.900%, 0.719, 0.442,3.137,-6.2194,0.951,0.058,1775,0
+GO:0006928,"movement of cell or subcellular component",10.987%, 0.204,-0.144,3.280,-2.3769,0.949,0.073,6928,0
+GO:0008219,"cell death",11.881%, 1.128, 0.243,3.314,-2.1077,0.949,0.080,8219,0
+GO:0007229,"integrin-mediated signaling pathway",0.548%,-0.655,-5.859,1.982,-2.3951,0.901,0.084,7229,0
+GO:0072376,"protein activation cascade",1.091%,-5.328,-4.521,2.279,-2.0679,0.926,0.092,72376,0
+GO:0071692,"protein localization to extracellular region",0.035%, 0.961, 4.205,0.845,-2.0070,0.961,0.101,71692,0
+GO:0051188,"cofactor biosynthetic process",1.131%,-1.273, 0.042,2.294,-2.0359,0.973,0.108,51188,0
+GO:0034097,"response to cytokine",4.714%, 1.108,-6.655,2.913,-6.7174,0.903,0.113,34097,0
+GO:0051707,"response to other organism",4.853%, 2.492,-7.087,2.925,-6.1082,0.897,0.118,51707,0
+GO:0043207,"response to external biotic stimulus",4.859%,null,null,2.926,-6.1082,0.897,0.933,51707,1
+GO:0009615,"response to virus",1.771%,null,null,2.489,-2.0556,0.908,0.815,51707,1
+GO:0098542,"defense response to other organism",2.874%,null,null,2.698,-5.4361,0.842,0.875,51707,1
+GO:0051767,"nitric-oxide synthase biosynthetic process",0.104%,-1.923,-1.162,1.279,-2.2528,0.980,0.120,51767,0
+GO:0032612,"interleukin-1 production",0.398%,-0.578, 5.035,1.845,-3.1001,0.906,0.144,32612,0
+GO:0001817,"regulation of cytokine production",3.387%,null,null,2.769,-2.8402,0.831,0.710,32612,1
+GO:0001818,"negative regulation of cytokine production",1.310%,null,null,2.358,-2.1523,0.796,0.819,32612,1
+GO:0002367,"cytokine production involved in immune response",0.456%,null,null,1.903,-2.0679,0.760,0.721,32612,1
+GO:0050663,"cytokine secretion",1.027%,null,null,2.253,-2.6670,0.844,0.794,32612,1
+GO:0034330,"cell junction organization",1.466%,-2.380,-3.509,2.407,-2.6214,0.953,0.152,34330,0
+GO:0006950,"response to stress",21.310%, 1.311,-6.766,3.567,-6.8013,0.927,0.157,6950,0
+GO:0009607,"response to biotic stimulus",5.107%, 0.230,-6.712,2.947,-5.9589,0.940,0.159,9607,0
+GO:0071850,"mitotic cell cycle arrest",0.087%,-7.548, 2.041,1.204,-2.5019,0.888,0.160,71850,0
+GO:0097435,"supramolecular fiber organization",3.278%,-2.017,-2.834,2.755,-2.1256,0.949,0.173,97435,0
+GO:0051674,"localization of cell",8.257%, 3.427, 3.390,3.156,-2.8402,0.952,0.177,51674,0
+GO:0001816,"cytokine production",3.745%,-0.702, 6.370,2.813,-3.4009,0.928,0.188,1816,0
+GO:0009605,"response to external stimulus",12.043%, 0.965,-7.431,3.320,-6.7006,0.933,0.196,9605,0
+GO:0051239,"regulation of multicellular organismal process",15.268%,-0.834, 7.175,3.423,-2.1993,0.892,0.202,51239,0
+GO:0007166,"cell surface receptor signaling pathway",15.868%, 1.588,-7.393,3.439,-2.7286,0.860,0.212,7166,0
+GO:0050793,"regulation of developmental process",12.949%, 2.324, 7.092,3.351,-3.6058,0.888,0.215,50793,0
+GO:0031400,"negative regulation of protein modification process",3.416%,-6.936, 0.902,2.773,-2.6718,0.830,0.223,31400,0
+GO:0001933,"negative regulation of protein phosphorylation",2.285%,null,null,2.599,-2.3593,0.824,0.745,31400,1
+GO:0032269,"negative regulation of cellular protein metabolic process",5.886%,null,null,3.009,-2.8318,0.821,0.840,31400,1
+GO:0042326,"negative regulation of phosphorylation",2.493%,null,null,2.636,-2.1711,0.841,0.891,31400,1
+GO:0006469,"negative regulation of protein kinase activity",1.391%,null,null,2.384,-2.1256,0.833,0.894,31400,1
+GO:0033673,"negative regulation of kinase activity",1.489%,null,null,2.413,-2.0359,0.846,0.902,31400,1
+GO:0043901,"negative regulation of multi-organism process",0.600%,-5.729, 3.698,2.021,-2.3457,0.886,0.226,43901,0
+GO:0048525,"negative regulation of viral process",0.392%,null,null,1.839,-2.5200,0.883,0.793,43901,1
+GO:1903901,"negative regulation of viral life cycle",0.375%,null,null,1.820,-2.1580,0.883,0.914,43901,1
+GO:2000379,"positive regulation of reactive oxygen species metabolic process",0.502%,-4.654, 1.897,1.944,-2.1045,0.901,0.229,2000379,0
+GO:0051901,"positive regulation of mitochondrial depolarization",0.058%,-1.036, 2.784,1.041,-2.1045,0.905,0.232,51901,0
+GO:1904181,"positive regulation of membrane depolarization",0.069%,null,null,1.114,-2.0359,0.904,0.812,51901,1
+GO:0048583,"regulation of response to stimulus",21.610%, 1.035,-8.039,3.574,-2.5372,0.877,0.233,48583,0
+GO:0043116,"negative regulation of vascular permeability",0.063%, 3.052, 1.021,1.079,-2.1256,0.925,0.234,43116,0
+GO:0090398,"cellular senescence",0.312%, 5.776,-3.643,1.740,-2.7054,0.851,0.268,90398,0
+GO:0007569,"cell aging",0.531%,null,null,1.968,-2.1761,0.920,0.735,90398,1
+GO:0048646,"anatomical structure formation involved in morphogenesis",5.591%, 2.502, 6.095,2.987,-2.4700,0.932,0.289,48646,0
+GO:0051246,"regulation of protein metabolic process",14.651%,-6.832,-2.016,3.405,-2.1256,0.900,0.293,51246,0
+GO:0002703,"regulation of leukocyte mediated immunity",0.912%, 7.844, 2.628,2.201,-2.7474,0.768,0.298,2703,0
+GO:0002707,"negative regulation of lymphocyte mediated immunity",0.196%,null,null,1.544,-2.0850,0.754,0.709,2703,1
+GO:0002699,"positive regulation of immune effector process",0.958%,null,null,2.223,-2.0246,0.746,0.829,2703,1
+GO:0043300,"regulation of leukocyte degranulation",0.242%,null,null,1.633,-2.0359,0.748,0.723,2703,1
+GO:0051093,"negative regulation of developmental process",4.720%,-2.445, 5.528,2.913,-2.6109,0.821,0.299,51093,0
+GO:2000697,"negative regulation of epithelial cell differentiation involved in kidney development",0.023%,-2.391, 6.952,0.699,-2.2063,0.837,0.311,2000697,0
+GO:0006925,"inflammatory cell apoptotic process",0.115%,-4.105, 1.596,1.322,-2.1412,0.919,0.316,6925,0
+GO:0071470,"cellular response to osmotic stress",0.173%, 4.559,-4.987,1.491,-2.1789,0.912,0.333,71470,0
+GO:0048585,"negative regulation of response to stimulus",8.003%,-1.843,-6.322,3.142,-2.1580,0.807,0.345,48585,0
+GO:0030099,"myeloid cell differentiation",1.875%, 5.685, 4.904,2.513,-2.6297,0.740,0.347,30099,0
+GO:0048534,"hematopoietic or lymphoid organ development",4.339%,null,null,2.877,-2.1962,0.729,0.928,30099,1
+GO:1903708,"positive regulation of hemopoiesis",0.958%,null,null,2.223,-2.0908,0.680,0.710,30099,1
+GO:1903706,"regulation of hemopoiesis",1.823%,null,null,2.501,-2.0156,0.682,0.767,30099,1
+GO:0045629,"negative regulation of T-helper 2 cell differentiation",0.023%,null,null,0.699,-2.1761,0.622,0.847,30099,1
+GO:0045621,"positive regulation of lymphocyte differentiation",0.485%,null,null,1.929,-2.0317,0.646,0.894,30099,1
+GO:0030097,"hemopoiesis",4.108%,null,null,2.853,-2.3277,0.730,0.837,30099,1
+GO:0046639,"negative regulation of alpha-beta T cell differentiation",0.104%,null,null,1.279,-2.0359,0.615,0.803,30099,1
+GO:0045582,"positive regulation of T cell differentiation",0.421%,null,null,1.869,-2.1256,0.594,0.777,30099,1
+GO:0051241,"negative regulation of multicellular organismal process",5.741%,-4.335, 5.498,2.998,-2.1580,0.806,0.357,51241,0
+GO:0042060,"wound healing",3.058%, 4.953,-6.206,2.725,-5.8136,0.848,0.358,42060,0
+GO:0061045,"negative regulation of wound healing",0.369%,null,null,1.813,-2.1217,0.762,0.849,42060,1
+GO:0010544,"negative regulation of platelet activation",0.098%,null,null,1.255,-2.0754,0.662,0.865,42060,1
+GO:0034111,"negative regulation of homotypic cell-cell adhesion",0.075%,null,null,1.146,-2.1580,0.810,0.903,42060,1
+GO:0090331,"negative regulation of platelet aggregation",0.058%,null,null,1.041,-2.2657,0.622,0.883,42060,1
+GO:0090330,"regulation of platelet aggregation",0.092%,null,null,1.230,-2.0754,0.639,0.933,42060,1
+GO:0007596,"blood coagulation",1.945%,null,null,2.529,-5.6256,0.766,0.858,42060,1
+GO:0030168,"platelet activation",0.929%,null,null,2.210,-5.9589,0.716,0.894,42060,1
+GO:0007599,"hemostasis",1.973%,null,null,2.535,-5.5866,0.901,0.878,42060,1
+GO:1903035,"negative regulation of response to wounding",0.433%,null,null,1.881,-2.8402,0.781,0.713,42060,1
+GO:1903034,"regulation of response to wounding",0.883%,null,null,2.188,-2.1256,0.817,0.775,42060,1
+GO:0051258,"protein polymerization",1.431%,-3.284,-3.641,2.396,-2.0850,0.975,0.359,51258,0
+GO:0032271,"regulation of protein polymerization",1.056%,null,null,2.265,-2.2297,0.931,0.738,51258,1
+GO:0071887,"leukocyte apoptotic process",0.589%,-6.245, 0.910,2.013,-2.0494,0.907,0.362,71887,0
+GO:0048872,"homeostasis of number of cells",1.339%, 2.752, 0.284,2.367,-2.0850,0.924,0.365,48872,0
+GO:0046903,"secretion",8.892%, 3.914, 4.416,3.188,-2.5143,0.923,0.368,46903,0
+GO:0006954,"inflammatory response",3.785%, 4.575,-5.491,2.818,-5.0085,0.871,0.370,6954,0
+GO:0002634,"regulation of germinal center formation",0.052%, 6.809, 2.574,1.000,-2.0359,0.771,0.371,2634,0
+GO:1902914,"regulation of protein polyubiquitination",0.087%,-5.010,-0.118,1.204,-2.0768,0.921,0.404,1902914,0
+GO:0007286,"spermatid development",0.750%, 0.280, 7.497,2.117,-2.0934,0.886,0.417,7286,0
+GO:0048515,"spermatid differentiation",0.779%,null,null,2.134,-2.0850,0.888,0.839,7286,1
+GO:2000116,"regulation of cysteine-type endopeptidase activity",1.235%,-5.245,-0.243,2.332,-2.1668,0.906,0.422,2000116,0
+GO:0002520,"immune system development",4.605%, 5.607, 5.033,2.903,-2.0850,0.750,0.427,2520,0
+GO:0006952,"defense response",8.904%, 4.197,-6.019,3.189,-8.0243,0.879,0.427,6952,0
+GO:0071622,"regulation of granulocyte chemotaxis",0.277%, 7.120,-0.096,1.690,-2.5734,0.673,0.430,71622,0
+GO:0090022,"regulation of neutrophil chemotaxis",0.185%,null,null,1.519,-2.0850,0.684,0.838,71622,1
+GO:0097530,"granulocyte migration",0.692%,null,null,2.083,-2.0795,0.770,0.903,71622,1
+GO:0002688,"regulation of leukocyte chemotaxis",0.589%,null,null,2.013,-2.1904,0.655,0.844,71622,1
+GO:1990266,"neutrophil migration",0.554%,null,null,1.987,-2.2528,0.774,0.891,71622,1
+GO:0033033,"negative regulation of myeloid cell apoptotic process",0.075%,-6.213, 2.198,1.146,-2.4057,0.854,0.441,33033,0
+GO:2000110,"negative regulation of macrophage apoptotic process",0.023%,null,null,0.699,-2.0494,0.856,0.834,33033,1
+GO:0070887,"cellular response to chemical stimulus",15.701%, 1.814,-7.547,3.435,-3.3209,0.894,0.442,70887,0
+GO:0048856,"anatomical structure development",31.558%, 2.325, 6.325,3.738,-2.4275,0.933,0.446,48856,0
+GO:0019221,"cytokine-mediated signaling pathway",3.260%, 0.467,-7.203,2.753,-6.9410,0.830,0.464,19221,0
+GO:0034341,"response to interferon-gamma",0.935%,null,null,2.212,-3.9829,0.728,0.719,19221,1
+GO:2000660,"negative regulation of interleukin-1-mediated signaling pathway",0.023%,null,null,0.699,-2.2836,0.829,0.827,19221,1
+GO:2000659,"regulation of interleukin-1-mediated signaling pathway",0.035%,null,null,0.845,-2.1210,0.863,0.753,19221,1
+GO:0071345,"cellular response to cytokine stimulus",4.172%,null,null,2.860,-6.8013,0.873,0.882,19221,1
+GO:0071346,"cellular response to interferon-gamma",0.808%,null,null,2.149,-3.9623,0.726,0.739,19221,1
+GO:0071347,"cellular response to interleukin-1",0.519%,null,null,1.959,-2.3227,0.889,0.701,19221,1
+GO:0070498,"interleukin-1-mediated signaling pathway",0.115%,null,null,1.322,-2.0850,0.868,0.829,19221,1
+GO:0060333,"interferon-gamma-mediated signaling pathway",0.496%,null,null,1.940,-3.2237,0.710,0.914,19221,1
+GO:0002262,"myeloid cell homeostasis",0.744%, 7.262, 2.174,2.114,-2.2983,0.795,0.466,2262,0
+GO:0001780,"neutrophil homeostasis",0.081%,null,null,1.176,-2.5316,0.830,0.708,2262,1
+GO:0080134,"regulation of response to stress",7.657%, 4.669,-5.515,3.123,-3.4688,0.823,0.488,80134,0
+GO:0043068,"positive regulation of programmed cell death",3.428%,-5.829, 2.200,2.775,-2.7286,0.816,0.490,43068,0
+GO:0043069,"negative regulation of programmed cell death",4.812%,null,null,2.922,-2.1722,0.787,0.920,43068,1
+GO:0043065,"positive regulation of apoptotic process",3.393%,null,null,2.770,-2.4127,0.816,0.948,43068,1
+GO:0043066,"negative regulation of apoptotic process",4.749%,null,null,2.916,-2.2445,0.787,0.714,43068,1
+GO:0043067,"regulation of programmed cell death",8.234%,null,null,3.155,-2.8036,0.835,0.886,43068,1
+GO:0042981,"regulation of apoptotic process",8.159%,null,null,3.151,-2.8555,0.833,0.825,43068,1
+GO:0050900,"leukocyte migration",2.649%, 7.072, 3.604,2.663,-2.2983,0.752,0.503,50900,0
+GO:0030155,"regulation of cell adhesion",3.780%,-3.351,-0.474,2.817,-2.6718,0.849,0.517,30155,0
+GO:0098609,"cell-cell adhesion",5.326%,null,null,2.966,-4.3300,0.886,0.834,30155,1
+GO:0007155,"cell adhesion",8.511%,null,null,3.169,-5.4462,0.881,0.784,30155,1
+GO:0009306,"protein secretion",2.856%, 2.884, 4.197,2.695,-2.0359,0.900,0.545,9306,0
+GO:0032940,"secretion by cell",8.125%,null,null,3.149,-2.6160,0.892,0.727,9306,1
+GO:0035592,"establishment of protein localization to extracellular region",3.505%, 2.897, 3.989,2.784,-2.0324,0.912,0.545,35592,0
+GO:0050701,"interleukin-1 secretion",0.237%, 0.906, 5.871,1.623,-2.6021,0.851,0.546,50701,0
+GO:0050704,"regulation of interleukin-1 secretion",0.190%,null,null,1.531,-2.0751,0.807,0.970,50701,1
+GO:0050702,"interleukin-1 beta secretion",0.208%,null,null,1.568,-2.0861,0.852,0.901,50701,1
+GO:0032611,"interleukin-1 beta production",0.329%,null,null,1.763,-2.0837,0.894,0.966,50701,1
+GO:0032652,"regulation of interleukin-1 production",0.340%,null,null,1.778,-2.5734,0.851,0.939,50701,1
+GO:0008284,"positive regulation of cell proliferation",4.859%,-3.505, 2.652,2.926,-2.1284,0.869,0.548,8284,0
+GO:0002228,"natural killer cell mediated immunity",0.335%, 7.744,-0.561,1.771,-2.7286,0.772,0.554,2228,0
+GO:0051248,"negative regulation of protein metabolic process",6.197%,-7.192, 0.921,3.031,-2.6057,0.835,0.565,51248,0
+GO:0006955,"immune response",11.858%, 7.569,-1.066,3.313,-6.2476,0.750,0.579,6955,0
+GO:0007160,"cell-matrix adhesion",1.148%,-3.488,-0.901,2.301,-2.2528,0.903,0.582,7160,0
+GO:0051270,"regulation of cellular component movement",4.605%, 5.341, 4.181,2.903,-2.0364,0.854,0.586,51270,0
+GO:0071310,"cellular response to organic substance",12.977%, 1.896,-7.303,3.352,-3.6886,0.881,0.590,71310,0
+GO:0007162,"negative regulation of cell adhesion",1.321%,-6.140, 0.913,2.362,-2.2541,0.793,0.593,7162,0
+GO:0010033,"response to organic substance",16.515%, 1.852,-7.349,3.457,-2.8402,0.898,0.594,10033,0
+GO:0032101,"regulation of response to external stimulus",3.976%, 3.387,-5.833,2.839,-4.8627,0.850,0.596,32101,0
+GO:0051240,"positive regulation of multicellular organismal process",8.327%,-2.799, 6.494,3.160,-2.0850,0.818,0.596,51240,0
+GO:0022603,"regulation of anatomical structure morphogenesis",5.430%, 2.344, 7.266,2.974,-2.5011,0.865,0.596,22603,0
+GO:0045930,"negative regulation of mitotic cell cycle",1.610%,-7.199, 2.518,2.447,-2.1284,0.856,0.609,45930,0
+GO:1901988,"negative regulation of cell cycle phase transition",1.229%,null,null,2.330,-2.0835,0.859,0.922,45930,1
+GO:1901991,"negative regulation of mitotic cell cycle phase transition",1.183%,null,null,2.314,-2.1580,0.858,0.795,45930,1
+GO:0010948,"negative regulation of cell cycle process",1.593%,null,null,2.442,-2.0754,0.857,0.796,45930,1
+GO:0045088,"regulation of innate immune response",2.279%, 7.152,-1.773,2.598,-2.0768,0.667,0.625,45088,0
+GO:0002252,"immune effector process",6.896%, 7.759, 2.805,3.078,-3.1781,0.806,0.627,2252,0
+GO:0040012,"regulation of locomotion",4.484%, 5.396, 1.806,2.891,-2.0754,0.886,0.634,40012,0
+GO:0072378,"blood coagulation, fibrin clot formation",0.156%, 4.295,-3.775,1.447,-2.0679,0.801,0.640,72378,0
+GO:0044319,"wound healing, spreading of cells",0.167%, 6.170, 0.013,1.477,-2.1284,0.768,0.645,44319,0
+GO:0090504,"epiboly",0.173%,null,null,1.491,-2.1256,0.928,0.908,44319,1
+GO:0090505,"epiboly involved in wound healing",0.167%,null,null,1.477,-2.1284,0.830,0.993,44319,1
+GO:0002443,"leukocyte mediated immunity",4.859%, 8.051, 3.112,2.926,-2.3070,0.800,0.645,2443,0
+GO:0002697,"regulation of immune effector process",1.922%,null,null,2.524,-2.1412,0.760,0.714,2443,1
+GO:0010941,"regulation of cell death",8.800%,-5.495, 1.759,3.184,-2.4847,0.843,0.647,10941,0
+GO:0012501,"programmed cell death",11.246%,null,null,3.290,-2.1256,0.874,0.846,10941,1
+GO:0006915,"apoptotic process",10.537%,null,null,3.262,-2.4279,0.873,0.802,10941,1
+GO:0002682,"regulation of immune system process",8.344%, 7.845, 2.831,3.160,-6.2194,0.763,0.653,2682,0
+GO:0006783,"heme biosynthetic process",0.115%,-2.070,-2.624,1.322,-2.1077,0.952,0.658,6783,0
+GO:0010942,"positive regulation of cell death",3.606%,-5.457, 2.316,2.797,-2.5048,0.819,0.662,10942,0
+GO:0031103,"axon regeneration",0.231%, 4.947,-2.711,1.613,-2.0521,0.801,0.666,31103,0
+GO:0002694,"regulation of leukocyte activation",2.977%, 7.685, 2.320,2.713,-2.8621,0.679,0.671,2694,0
+GO:0051251,"positive regulation of lymphocyte activation",1.875%,null,null,2.513,-2.2836,0.669,0.892,2694,1
+GO:0050870,"positive regulation of T cell activation",1.235%,null,null,2.332,-2.4275,0.616,0.913,2694,1
+GO:0050863,"regulation of T cell activation",1.777%,null,null,2.490,-2.0662,0.622,0.928,2694,1
+GO:0050866,"negative regulation of cell activation",0.941%,null,null,2.215,-2.0308,0.783,0.817,2694,1
+GO:0050867,"positive regulation of cell activation",2.077%,null,null,2.558,-2.7474,0.790,0.904,2694,1
+GO:0045321,"leukocyte activation",7.011%,null,null,3.085,-3.1733,0.723,0.779,2694,1
+GO:0070665,"positive regulation of leukocyte proliferation",0.773%,null,null,2.130,-2.1256,0.880,0.900,2694,1
+GO:0050776,"regulation of immune response",5.799%,null,null,3.003,-3.8358,0.682,0.805,2694,1
+GO:0032946,"positive regulation of mononuclear cell proliferation",0.744%,null,null,2.114,-2.1761,0.879,0.984,2694,1
+GO:0030890,"positive regulation of B cell proliferation",0.225%,null,null,1.602,-2.0070,0.706,0.884,2694,1
+GO:0050671,"positive regulation of lymphocyte proliferation",0.739%,null,null,2.111,-2.1794,0.674,0.793,2694,1
+GO:0002684,"positive regulation of immune system process",6.047%,null,null,3.021,-4.9949,0.712,0.720,2694,1
+GO:0002696,"positive regulation of leukocyte activation",2.025%,null,null,2.547,-2.4309,0.668,0.963,2694,1
+GO:0002274,"myeloid leukocyte activation",3.531%,null,null,2.787,-2.4906,0.741,0.721,2694,1
+GO:1903039,"positive regulation of leukocyte cell-cell adhesion",1.287%,null,null,2.350,-2.2480,0.797,0.952,2694,1
+GO:0097529,"myeloid leukocyte migration",0.969%, 6.974, 3.351,2.228,-2.0317,0.767,0.672,97529,0
+GO:0007159,"leukocyte cell-cell adhesion",2.874%,-3.507,-0.985,2.698,-2.2541,0.858,0.675,7159,0
+GO:0042110,"T cell activation",2.637%,null,null,2.661,-2.0567,0.666,0.905,7159,1
+GO:0022409,"positive regulation of cell-cell adhesion",1.460%,null,null,2.405,-2.0070,0.797,0.899,7159,1
+GO:0022407,"regulation of cell-cell adhesion",2.291%,null,null,2.600,-2.2541,0.825,0.829,7159,1
+GO:1903037,"regulation of leukocyte cell-cell adhesion",1.864%,null,null,2.511,-2.0861,0.819,0.806,7159,1
+GO:0031347,"regulation of defense response",3.964%, 5.207,-5.863,2.838,-2.6718,0.806,0.678,31347,0
+GO:0045087,"innate immune response",5.124%,null,null,2.949,-6.6938,0.721,0.711,31347,1
+GO:2000026,"regulation of multicellular organismal development",9.821%, 0.545, 6.907,3.231,-2.4322,0.808,0.680,2000026,0
+GO:0051094,"positive regulation of developmental process",6.815%,null,null,3.073,-2.1580,0.838,0.711,2000026,1
+GO:0032268,"regulation of cellular protein metabolic process",13.728%,-6.924,-1.921,3.377,-2.1721,0.870,0.688,32268,0
+GO:0001932,"regulation of protein phosphorylation",7.519%,null,null,3.115,-2.0937,0.862,0.717,32268,1
+GO:0031399,"regulation of protein modification process",9.683%,null,null,3.225,-2.2059,0.875,0.759,32268,1
+GO:0042325,"regulation of phosphorylation",8.050%,null,null,3.145,-2.0199,0.887,0.838,32268,1
+GO:0070555,"response to interleukin-1",0.664%, 0.713,-5.610,2.064,-2.1145,0.901,0.690,70555,0
+GO:0070527,"platelet aggregation",0.323%, 4.353,-2.439,1.756,-5.7266,0.675,0.691,70527,0
+GO:0034110,"regulation of homotypic cell-cell adhesion",0.133%,null,null,1.380,-2.4322,0.848,0.877,70527,1
+GO:0030334,"regulation of cell migration",3.912%, 5.714, 4.151,2.832,-2.0908,0.837,0.697,30334,0
+GO:0002685,"regulation of leukocyte migration",0.912%,null,null,2.201,-2.0679,0.719,0.764,30334,1
+GO:0048870,"cell motility",8.257%,null,null,3.156,-2.8402,0.867,0.900,30334,1
+GO:0016477,"cell migration",7.496%,null,null,3.114,-2.9063,0.869,0.785,30334,1

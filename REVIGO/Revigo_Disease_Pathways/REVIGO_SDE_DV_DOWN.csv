@@ -1,0 +1,60 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0002376,"immune system process",16.463%, 4.966,-4.803,3.455,-3.9205,0.971,0.000,2376,0
+GO:0030163,"protein catabolic process",4.645%, 4.180, 1.980,2.906,-3.1126,0.721,0.000,30163,0
+GO:0019941,"modification-dependent protein catabolic process",3.347%,null,null,2.764,-2.1042,0.691,0.962,30163,1
+GO:0043632,"modification-dependent macromolecule catabolic process",3.381%,null,null,2.769,-2.1042,0.737,0.816,30163,1
+GO:0051603,"proteolysis involved in cellular protein catabolic process",3.710%,null,null,2.809,-2.3267,0.690,0.783,30163,1
+GO:0044257,"cellular protein catabolic process",3.912%,null,null,2.832,-2.4421,0.695,0.896,30163,1
+GO:0043161,"proteasome-mediated ubiquitin-dependent protein catabolic process",2.222%,null,null,2.587,-2.4128,0.704,0.877,30163,1
+GO:0006511,"ubiquitin-dependent protein catabolic process",3.306%,null,null,2.759,-2.0334,0.691,0.929,30163,1
+GO:0010498,"proteasomal protein catabolic process",2.383%,null,null,2.617,-2.4421,0.703,0.886,30163,1
+GO:0043299,"leukocyte degranulation",3.064%,-2.959,-5.336,2.726,-4.2702,0.566,0.000,43299,0
+GO:0042119,"neutrophil activation",2.827%,null,null,2.691,-3.1606,0.570,0.968,43299,1
+GO:0002446,"neutrophil mediated immunity",2.879%,null,null,2.699,-3.4266,0.618,0.942,43299,1
+GO:0002443,"leukocyte mediated immunity",4.859%,null,null,2.926,-2.2459,0.606,0.795,43299,1
+GO:0002444,"myeloid leukocyte mediated immunity",3.133%,null,null,2.736,-4.1559,0.618,0.718,43299,1
+GO:0043312,"neutrophil degranulation",2.799%,null,null,2.687,-3.4820,0.455,0.915,43299,1
+GO:0046649,"lymphocyte activation",3.947%,null,null,2.836,-3.4820,0.581,0.752,43299,1
+GO:0045321,"leukocyte activation",7.011%,null,null,3.085,-6.0141,0.563,0.794,43299,1
+GO:0002274,"myeloid leukocyte activation",3.531%,null,null,2.787,-3.6722,0.586,0.725,43299,1
+GO:0002275,"myeloid cell activation involved in immune response",3.093%,null,null,2.730,-4.1559,0.506,0.715,43299,1
+GO:0036230,"granulocyte activation",2.851%,null,null,2.695,-3.2331,0.573,0.917,43299,1
+GO:0002263,"cell activation involved in immune response",3.907%,null,null,2.831,-4.0991,0.527,0.743,43299,1
+GO:0045055,"regulated exocytosis",4.299%,null,null,2.873,-2.1318,0.848,0.859,43299,1
+GO:0002366,"leukocyte activation involved in immune response",3.895%,null,null,2.830,-4.1559,0.506,0.927,43299,1
+GO:0002283,"neutrophil activation involved in immune response",2.799%,null,null,2.687,-3.4332,0.508,0.969,43299,1
+GO:0019221,"cytokine-mediated signaling pathway",3.260%,-4.720, 2.515,2.753,-2.5077,0.828,0.016,19221,0
+GO:0044093,"positive regulation of molecular function",10.998%, 2.781,-3.070,3.280,-2.4421,0.938,0.047,44093,0
+GO:0001775,"cell activation",7.900%, 1.072,-4.688,3.137,-5.0740,0.931,0.058,1775,0
+GO:0009893,"positive regulation of metabolic process",17.715%,-0.139, 6.352,3.487,-2.4421,0.841,0.067,9893,0
+GO:0001732,"formation of cytoplasmic translation initiation complex",0.012%, 5.679,-1.856,0.477,-2.3296,0.895,0.128,1732,0
+GO:0019538,"protein metabolic process",31.991%, 4.509, 4.608,3.744,-2.1042,0.892,0.140,19538,0
+GO:0048583,"regulation of response to stimulus",21.610%,-4.063, 5.739,3.574,-2.6175,0.871,0.145,48583,0
+GO:1902532,"negative regulation of intracellular signal transduction",2.718%,-6.467, 1.283,2.674,-2.4421,0.803,0.206,1902532,0
+GO:0018105,"peptidyl-serine phosphorylation",1.587%, 5.606, 0.635,2.441,-2.5077,0.825,0.215,18105,0
+GO:0015770,"sucrose transport",0.017%, 1.694,-6.683,0.602,-2.0285,0.881,0.222,15770,0
+GO:0015766,"disaccharide transport",0.017%,null,null,0.602,-2.0285,0.881,1.000,15770,1
+GO:0035556,"intracellular signal transduction",15.101%,-5.094, 3.297,3.418,-4.3319,0.826,0.272,35556,0
+GO:0016192,"vesicle-mediated transport",11.385%,-0.612,-7.244,3.295,-2.1189,0.922,0.308,16192,0
+GO:0050854,"regulation of antigen receptor-mediated signaling pathway",0.265%,-4.729,-0.736,1.672,-2.1189,0.628,0.331,50854,0
+GO:0050853,"B cell receptor signaling pathway",0.589%,null,null,2.013,-2.1042,0.612,0.740,50854,1
+GO:0042113,"B cell activation",1.598%,-4.671,-4.988,2.444,-3.5030,0.611,0.395,42113,0
+GO:0006464,"cellular protein modification process",22.683%, 4.883, 2.018,3.595,-2.4125,0.781,0.408,6464,0
+GO:0036211,"protein modification process",22.683%,null,null,3.595,-2.4125,0.801,0.726,6464,1
+GO:0043401,"steroid hormone mediated signaling pathway",1.050%,-6.010, 4.347,2.262,-2.1042,0.860,0.445,43401,0
+GO:0031325,"positive regulation of cellular metabolic process",16.590%, 0.263, 5.579,3.459,-2.0384,0.824,0.459,31325,0
+GO:1901223,"negative regulation of NIK/NF-kappaB signaling",0.063%,-7.474, 0.577,1.079,-2.4421,0.853,0.467,1901223,0
+GO:0031323,"regulation of cellular metabolic process",33.837%, 0.564, 6.272,3.768,-2.1042,0.831,0.470,31323,0
+GO:1900153,"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",0.092%, 1.634, 4.628,1.230,-2.0218,0.764,0.496,1900153,0
+GO:0015772,"oligosaccharide transport",0.017%, 1.285,-6.878,0.602,-2.0285,0.897,0.516,15772,0
+GO:0006955,"immune response",11.858%,-4.760,-3.179,3.313,-3.9996,0.602,0.537,6955,0
+GO:0051056,"regulation of small GTPase mediated signal transduction",1.760%,-6.729, 1.549,2.486,-2.1538,0.814,0.542,51056,0
+GO:1902531,"regulation of intracellular signal transduction",10.006%,-5.908, 1.687,3.239,-3.9471,0.785,0.543,1902531,0
+GO:0018209,"peptidyl-serine modification",1.685%, 5.484, 0.337,2.467,-2.2459,0.830,0.605,18209,0
+GO:0080090,"regulation of primary metabolic process",33.566%, 1.205, 6.361,3.765,-2.0826,0.837,0.608,80090,0
+GO:0006468,"protein phosphorylation",10.854%, 5.198, 1.412,3.275,-2.4007,0.796,0.619,6468,0
+GO:0050855,"regulation of B cell receptor signaling pathway",0.081%,-4.907,-1.085,1.176,-2.1042,0.661,0.627,50855,0
+GO:0002682,"regulation of immune system process",8.344%,-4.361,-4.671,3.160,-2.1042,0.624,0.653,2682,0
+GO:0030183,"B cell differentiation",0.658%,-4.954,-5.002,2.061,-3.5030,0.639,0.678,30183,0
+GO:0030098,"lymphocyte differentiation",1.818%,null,null,2.500,-2.4421,0.603,0.779,30183,1
+GO:0009966,"regulation of signal transduction",15.915%,-5.572, 2.003,3.441,-2.4107,0.780,0.690,9966,0
